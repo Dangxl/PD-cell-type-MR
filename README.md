@@ -11,7 +11,7 @@ Cells were harvested at several differentiation time points (11, 30, and 52 days
 and only eQTL data from day 52 (differentiation of iPSC toward dopaminergic neurons for 52 days) were used in this study. 
 To investigate the effect of oxidative stress on gene expression, 
 Jerber et al. also conducted an eQTL analysis by treating the differentiated dopaminergic neurons with rotenone. 
-More details about the eQTL of dopaminergic neurons can be found in the study of Jerber et al.1 
+More details about the eQTL of dopaminergic neurons can be found in the study of Jerber et al.
 
 #Outcome data
 The largest PD GWAS reported by Nall et al.3 was used in this study. Briefly, Nall et al. 
@@ -20,7 +20,7 @@ including 37,688 PD cases, 18,618 UK Biobank proxy-cases and about 1.4 million c
 As GWAS results of several datasets (such as 23andme) were not publicly available, 
 genome-wide associations of 33,647 cases and 449,056 controls (referred as main GWAS) were used in this study. 
 We noticed that some SNPs were not available in the main GWAS. 
-However, association results of these SNPs were available in a relatively smaller PD GWAS (26,421 cases and 442,271 controls, also from by Nall et al 3). 
+However, association results of these SNPs were available in a relatively smaller PD GWAS (26,421 cases and 442,271 controls, also from by Nall et al ). 
 To include more variants, for SNPs that were not available in main GWAS, association results from 26,421 PD cases and 442,271 controls were used. 
 Detailed information about the PD GWAS can be found in the original publication3 and sample size information for each IVs can be found in Supp_tables.xlsx, 
 “IVs_sample_size” sheet.
